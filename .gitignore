@@ -1,0 +1,5 @@
+Output/
+.dart_tool
+installer.iss
+koy.exe
+pubspec.lock
